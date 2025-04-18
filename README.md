@@ -40,7 +40,7 @@ Factory contract to:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### **Prerequisites:**
 - [Solidity Compiler](https://docs.soliditylang.org/en/latest/installing-solidity.html)
@@ -59,27 +59,16 @@ git clone https://github.com/nemanull/CampaignFactory.git
 
 ---
 
-## 🔗 Dependencies
+## Dependencies
 - Chainlink Oracles (`AggregatorV3Interface`)
 
 Ensure correct Chainlink Price Feed address for your target blockchain.
 
 ---
 
-## ✅ Verification & Testing
 
-- Verify contracts on [Etherscan](https://etherscan.io/) or relevant blockchain explorers.
-- Thoroughly test your contracts before deploying to mainnet (recommended: Remix or Hardhat testing).
-
----
-
-## ⚠️ Disclaimer
+## Disclaimer
 
 This repository is provided as-is, with no warranty or guarantees. Use responsibly and perform your own due diligence.
 
----
-
-## 📄 License
-
-MIT License.
 
