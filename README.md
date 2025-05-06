@@ -4,7 +4,7 @@ This repository provides an Ethereum-based crowdfunding solution implemented in 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -16,7 +16,7 @@ This repository provides an Ethereum-based crowdfunding solution implemented in 
 
 ---
 
-## 🛠️ Smart Contracts Overview
+## Smart Contracts Overview
 
 ### **Campaign.sol**
 Handles individual crowdfunding campaigns:
